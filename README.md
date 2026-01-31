@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m currently working on **desktop and web-based software (ERP, CRM, IoT)**  <br>I can **design scalable system architectures** with a focus on **user experience, security, automation, AI/ML integration, and microservices**  <br>I’m looking to collaborate on **enterprise software, IoT platforms, and AI-driven applications**  <br>I’m looking for help with **optimizing large-scale systems and exploring cutting-edge cloud solutions**  <br>I’m currently working on **React, Next.js, Spring Boot, and Node.js**  
+I am a Full-Stack Developer working mainly with Spring Boot on the backend and React with TypeScript on the frontend. In a startup environment, I have built REST APIs, handled database design with JPA and MySQL, and worked on integrating backend services with user-facing features.
+
+At TechnoNexis, I work on web applications and internal tools where my role spans both backend and frontend development. On the backend, I use Spring Boot and microservices, and I have worked with Kafka for asynchronous flows and Redis for caching to reduce response times and improve overall performance. On the frontend, I build and maintain React-based interfaces used in day-to-day operations.
+
+I prefer working in small teams where I can take ownership of features end-to-end and understand how the system behaves in production. I am looking to continue growing as a full-stack developer by working on systems that need clean structure, performance awareness, and practical engineering decisions.
 
 
 ## 🌐 Socials:
