@@ -4,13 +4,9 @@ I am a Full-Stack Developer working mainly with Spring Boot on the backend and R
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/omkarsalunkhe1211/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkarsalunkhe1211/)
 
-<a href="mailto:omkarsalunkheatp1211@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarsalunkheatp1211@gmail.com)
 
 # 💻 Tech Stack:
 
